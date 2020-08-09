@@ -1,0 +1,54 @@
+.top-banner{
+   background-color: #f0fff0;
+   border:6px lightcoral;
+   height: 600px;
+   
+
+}
+.col-md-7{
+   width: 60%;
+   height: 50px;
+   margin-top: 20px ;
+   
+   padding:20px 40px;
+   
+   
+
+}
+.button{
+   
+   margin: auto;
+   padding: 5;
+   color:black;
+   border-radius: 5px;
+   background-color: #21b573;
+  
+
+}
+.name-highlight{
+   color:#21b573 ;
+}
+.col-md-5{
+   width: 40%;
+   height: 50px;
+   margin-top:20px;
+   padding: 20px 40px;
+   
+   
+}
+.container-categories{
+   
+   height: 60px;
+   width: 40px;
+
+}
+.middle-banner{
+   border: 2px;
+   margin-top: 50px;
+   height: 60px;
+   width: 98%;
+   
+
+}
+
+
